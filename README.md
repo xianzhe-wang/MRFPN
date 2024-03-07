@@ -1,4 +1,4 @@
-# MRFPN-for-BREAST-MASS-DETECTION
+# MRFPN-for-BREAST-MASS-DETECTION (MRBMDNet)
 
 The entire code is written based on mmdetection, so the basic environment of mmdetection needs to be built first.
 
@@ -8,4 +8,4 @@ The entire code is written based on mmdetection, so the basic environment of mmd
 
 3: Reinstall mmdet
 
-4: Modify the name of the FPN module in the config file.
+4: Modify the name of the FPN module in the config file (ie MRBMDNet).
