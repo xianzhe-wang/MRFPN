@@ -10,4 +10,4 @@ The entire code is written based on mmdetection, so the basic environment of mmd
 
 4: Modify the name of the FPN module in the config file (ie MRBMDNet).
 
-![]{https://github.com/xianzhe-wang/MRFPN/blob/main/mrfpn/MRFPN.svg}
+![]{https://github.com/xianzhe-wang/MRFPN/blob/main/mrfpn/MRFPN%20.jpg}
